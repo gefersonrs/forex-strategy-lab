@@ -1,0 +1,2 @@
+# No external packages are required for the local server.
+# Optional data/storage upgrades will be documented separately.
